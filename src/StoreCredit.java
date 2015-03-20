@@ -1,3 +1,11 @@
+//**********************************************************
+// Google Code Jam Africa 2010
+// Problem: Store Credit
+// Author: Adam Zernik
+//
+// License: MIT
+//*********************************************************
+
 import java.util.Scanner;
 
 public class StoreCredit {
